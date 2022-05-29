@@ -1,0 +1,72 @@
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Seguradora.exe
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Seguradora.deps.json
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Seguradora.runtimeconfig.json
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Seguradora.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Seguradora.pdb
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.AssemblyReference.cache
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.GenerateResource.cache
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.AssemblyInfoInputs.cache
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.AssemblyInfo.cs
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.CoreCompileInputs.cache
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\refint\Seguradora.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.pdb
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.genruntimeconfig.cache
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\ref\Seguradora.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_CadCliente.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.Properties.Resources.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.Seguros.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_Login.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_SeguroCarro.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_AlterarCliente.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_Sobre.resources
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\EntityFramework6.Npgsql.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.CopyComplete
+C:\Users\Valdomiro\source\repos\Seguradora\Seguradora\bin\Debug\net6.0-windows\CPFCNPJ.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Seguradora.exe
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Seguradora.deps.json
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Seguradora.runtimeconfig.json
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Seguradora.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Seguradora.pdb
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\CPFCNPJ.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\EntityFramework6.Npgsql.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_AlterarCliente.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_CadCliente.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_Login.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_SeguroCarro.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.frm_Sobre.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.Properties.Resources.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.Seguros.resources
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.csproj.CopyComplete
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\refint\Seguradora.dll
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.pdb
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\Seguradora.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Nova pasta\ATUALIZADO\Seguradora-master\Seguradora\obj\Debug\net6.0-windows\ref\Seguradora.dll
